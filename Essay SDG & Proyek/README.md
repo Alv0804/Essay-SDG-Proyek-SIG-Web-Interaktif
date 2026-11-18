@@ -3,7 +3,7 @@
 WebGIS berbasis **Leaflet 1.9.4** untuk Proyek Tahap 1 mata kuliah Pengembangan SIG Web (Sub-CPMK 7).
 Tema: **SDG 11** (kota & permukiman berkelanjutan — akses layanan dasar) dan **SDG 9** (infrastruktur & inovasi).
 
-**Live demo:** `https://USERNAME.github.io/NAMA-REPO/` *(ganti setelah publikasi)*
+**Live demo:** https://Alv0804.github.io/Essay-SDG-Proyek-SIG-Web-Interaktif/
 
 ## Fitur
 - 3 basemap (OSM, CARTO Terang, Esri Satelit) + 4 layer tematik lewat *layer control*
